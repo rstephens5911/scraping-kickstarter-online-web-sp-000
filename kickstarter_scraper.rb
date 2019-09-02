@@ -36,5 +36,5 @@ require 'pry'
         }
       end
       # return the projects hash
-      puts projects
+      projects
     end
